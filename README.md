@@ -1,2 +1,3 @@
 # Tracking-control-of-an-underactuated-ship
-Tracking control of an underactuated ship by modified dynamic inversion
+Tracking control of an underactuated ship by modified dynamic inversion.
+Student's Project
