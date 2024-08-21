@@ -1,5 +1,10 @@
 # Tracking-control-of-an-underactuated-ship
-Tracking control of an underactuated ship by modified dynamic inversion.
+
+Authors of the article:
+
+Tracking control of an underactuated ship by modified dynamic inversion, Linqi Ye, Qun Zong.
+
+## Implementation: 
 
 inż. Szymon Murawski / BEng Szymon Murawski
 
